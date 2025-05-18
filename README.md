@@ -1,4 +1,4 @@
-﻿﻿# Mensa gymnázium, o.p.s. - Maturitní zkouška z Informatiky 2025 - Zadání
+﻿# Mensa gymnázium, o.p.s. - Maturitní zkouška z Informatiky 2025 - Zadání
 
 ## Pokyny
 Níže najdete zadání čtyř úloh. Libovolné tři z nich naprogramujte ve vhodném programovacím jazyce, jednu můžete vynechat, nebo využít pro získání bonusových bodů. Na práci máte 240 minut, po přestávce pak 15 minut na obhajobu před komisí.
